@@ -23,6 +23,9 @@ Next, you have to invoke python3 with superuser priviledges and specify interfac
 sudo python3 arp_poisoning.py -i "wlan0"
 ```
 
+After turnin on the script, open up Wireshark and now you are able to see every packet on wifi network.
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
